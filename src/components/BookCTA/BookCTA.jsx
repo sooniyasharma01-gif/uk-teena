@@ -1,7 +1,7 @@
 import { useLocation } from "react-router-dom";
 import "./BookCTA.css";
 
-const WA_URL = "https://wa.me/447988033040?text=Hi%20Teena%2C%20I%27d%20love%20to%20book%20a%20date%20with%20you.";
+const WA_URL = "https://wa.me/447868175399?text=Hi%20Teena%2C%20I%27d%20love%20to%20book%20a%20date%20with%20you.";
 
 export default function BookCTA() {
   const location = useLocation();

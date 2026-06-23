@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./NotePopup.css";
 
-const WA_URL = "https://wa.me/447988033040?text=Hi%20Teena%2C%20I%27d%20love%20to%20connect%20with%20you.";
+const WA_URL = "https://wa.me/447868175399?text=Hi%20Teena%2C%20I%27d%20love%20to%20connect%20with%20you.";
 
 export default function NotePopup() {
   const [visible, setVisible] = useState(false);

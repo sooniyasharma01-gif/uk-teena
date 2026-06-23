@@ -1,7 +1,7 @@
 import "./NewPages.css";
 import useScrollReveal from "../hooks/useScrollReveal";
 
-const WA_URL = "https://wa.me/447988033040?text=Hi%20Teena%2C%20I%27d%20like%20to%20check%20your%20availability.";
+const WA_URL = "https://wa.me/447868175399?text=Hi%20Teena%2C%20I%27d%20like%20to%20check%20your%20availability.";
 
 const schedule = [
   { day: "Monday",    status: "available" },
